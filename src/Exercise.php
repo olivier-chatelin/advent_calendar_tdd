@@ -6,10 +6,16 @@ class Exercise
 {
     public function part1(array $data): string
     {
-        return "";
+        $count = 0;
+        for ($i = 0; $i < count($data) -1; $i ++) {
+            if($data[$i] < $data[$i+1]) {
+                $count ++;
+            }
+        }
+        return $count;
     }
-    public function part2(array $data): string
-    {
-        return "";
-    }
+//    public function part2(array $data): string
+//    {
+//        return "";
+//    }
 }
