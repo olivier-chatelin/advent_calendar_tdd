@@ -1,1 +1,1 @@
-{"version":1,"defects":{"App\\ExerciseTest::testPart1":4},"times":{"App\\ExerciseTest::testPart1":0.001,"App\\ExerciseTest::testPart2":0}}
+{"version":1,"defects":{"App\\ExerciseTest::testPart1":4,"App\\ExerciseTest::testPart2":4},"times":{"App\\ExerciseTest::testPart1":0.001,"App\\ExerciseTest::testPart2":0}}
