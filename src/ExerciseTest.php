@@ -11,9 +11,9 @@ class ExerciseTest extends TestCase
         $exercise = new Exercise();
         $this->assertEquals('',$exercise->part1([]));
     }
-    public function testPart2()
-    {
-        $exercise = new Exercise();
-        $this->assertEquals('',$exercise->part2([]));
-    }
+//    public function testPart2()
+//    {
+//        $exercise = new Exercise();
+//        $this->assertEquals('',$exercise->part2([]));
+//    }
 }

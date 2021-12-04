@@ -8,8 +8,8 @@ class Exercise
     {
         return "";
     }
-    public function part2(array $data): string
-    {
-        return "";
-    }
+//    public function part2(array $data): string
+//    {
+//        return "";
+//    }
 }
